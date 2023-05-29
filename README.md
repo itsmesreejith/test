@@ -11,3 +11,5 @@
 
 ---
 *this is my portfolio website* [CLICK HERE](https://itsmesreejith.github.io/portfolio.io/)
+
+![alt text](/img/images.png)
