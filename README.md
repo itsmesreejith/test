@@ -1,7 +1,5 @@
 **ITS A SAMPLE PAGE**
-
 *my name is sreejith*
-*this is my portfolio website* [PORTFILIO](https://itsmesreejith.github.io/portfolio.io/)
 ### example of order list
 1.apple 
 2.mango 
@@ -11,5 +9,4 @@
 - Second item
 - Third item
 ---
-'code'
-
+*this is my portfolio website* [PORTFILIO](https://itsmesreejith.github.io/portfolio.io/)
