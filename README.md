@@ -1,4 +1,4 @@
-**ITS A SAMPLE PAGE**
+**just a page for .md intro**
 
 *my name is sreejith*
 ### example of order list
